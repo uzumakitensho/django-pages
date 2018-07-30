@@ -25,7 +25,7 @@ SECRET_KEY = 'gs+ip(w@cmjnzw5-2=5c=s(eb1dlnmvj_^i6n-k=qh3aj@5aw1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
